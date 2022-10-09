@@ -1,17 +1,15 @@
 # Redireccionar puertos VirtualBox para SSH
 
-## Paso 1
+<div align="center">
+  <h2>Paso 1</h2>
+  <p>Abre el VirtualBox, haz click en tu máquina y luego dale a configuración</p>
+  <img src="img/1.png" />
 
-- Abre el VirtualBox, haz click en tu máquina y luego dale a configuración
+  <h2>Paso 2</h2>
+  <p>Dirígete al apartado de red y dale a avanzadas. Después de eso, verás *Reenvío de puertos*</p>
+  <img src="img/2.png" />
 
-![Imagen 1](img/1.png)
-
-## Paso 2
-
-- Dirígete al apartado de red y dale a avanzadas. Después de eso, verás *Reenvío de puertos*
-
-![Imagen 2](img/2.png)
-
-- Haces click en *Reenvío de puertos* y te saldrá la ventana de reenvio de puertos. Una vez dentro, copias como lo tengo aquí:
-
-![Imagen 3](img/3.png)
+  <h2>Paso 3</h2>
+  <p>Haces click en *Reenvío de puertos* y te saldrá la ventana de reenvio de puertos. Una vez dentro, copias como lo tengo aquí:</p>
+  <img src="img/3.png" />
+</div>
